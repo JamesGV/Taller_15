@@ -9,7 +9,7 @@ section h2{
 }
 section section{
 background-color: blanchedalmond;
-width: 50%;
+width: 70%;
 margin: auto;
 display: flex;
 flex-direction: row;
@@ -86,7 +86,7 @@ ul{
 }
 #imagenes {
 margin-top: 170px;
-margin-left: 45%;
+margin-left: 40%;
 }
 #imagenes img{
     width: 250px;
