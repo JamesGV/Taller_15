@@ -1,0 +1,99 @@
+#cabecera{
+    height: 100px;
+}
+section h1{
+    margin:auto;
+}
+section h2{
+    margin:auto;
+}
+section section{
+background-color: blanchedalmond;
+width: 50%;
+margin: auto;
+display: flex;
+flex-direction: row;
+border-style: solid;
+border-width: 2px;
+border-radius: 10px;
+padding: 10px;
+}
+section section section h3{
+margin: auto;
+}
+section section section:hover{
+background-color: coral;
+}
+section section section:active{
+    color: darkslategray;
+    }
+section section h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 35px;
+margin-left: 5%;
+margin-right: 5%;
+padding: 5px;
+}
+section section h2:active{
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 4px;
+}
+section section section{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+ol{
+    margin: 10px;
+    padding: 10px;
+
+}
+
+/*ol:hover{
+    color: lawngreen;
+}*/
+ol li:hover{
+    color: lawngreen;  
+}
+ol li:active{
+    background-color: linen;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+}
+section section section section{
+    padding: 10px;
+}
+ul{
+    list-style-type: disc;
+}
+#item1:hover{
+    color: green;
+}
+#item2:hover{
+    color: blue;
+}
+#item3:hover{
+    color: red;
+}
+#item4:hover{
+    color: yellow;
+}
+#item5:hover{
+    color: rgb(85, 46, 80);
+}
+#imagenes {
+margin-top: 170px;
+margin-left: 45%;
+}
+#imagenes img{
+    width: 250px;
+    padding: 15px 15px 50px 15px;
+    background-color: blueviolet;
+    Border-color:red;
+    Border-width: 10px;
+    border-style: solid;
+    margin: auto;
+}
